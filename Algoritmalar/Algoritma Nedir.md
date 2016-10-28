@@ -22,4 +22,4 @@ Bir algortimanın yukarıdaki gibi adım adım yazılmasına [PseudoCode](https:
 (Sözde Kod, Kaba Kod) denir. 
 Programlam dili terimleri de kullanılabilir. 
 
-![alt text](https://gedik.blob.core.windows.net/images/fc.png)
+![alt text](https://gedik.blob.core.windows.net/images/fc.png =100x20)
