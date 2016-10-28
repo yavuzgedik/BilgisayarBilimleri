@@ -23,6 +23,5 @@ Bir algortimanın yukarıdaki gibi adım adım yazılmasına [PseudoCode](https:
 Algoritmaları şekillerle grafiksel olarak ifade edebiliriz. Bu yönteme <b>FlowChart (Akış Diyagramı)</b> denir.<br/>
 Kısaca temel şekiller sol alt bölümde gösterilmiştir. Sağ alt bölümde de yukarıdaki örneğin akış şemasını görebilirsiniz.
 Daha fazla şekil kullanan yayınlarda görebilirsiniz. 
-Ayrıntılar için [bu adrese](https://en.wikipedia.org/wiki/Flowchart) gidebilirsiniz. 
-
+Ayrıntılar için [bu adrese](https://en.wikipedia.org/wiki/Flowchart) gidebilirsiniz. <br/>
 <img src="https://gedik.blob.core.windows.net/images/fc.png">
