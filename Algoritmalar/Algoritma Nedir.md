@@ -24,6 +24,4 @@ Algoritmaları şekillerle grafiksel olarak ifade edebiliriz. Bu yönteme <b>Flo
 Kısaca temel şekiller yan bölümde gösterilmiştir. Daha fazla şekil kullanan yayınlarda görebilirsiniz. 
 Ayrıntılar için [bu adrese](https://en.wikipedia.org/wiki/Flowchart) gidebilirsiniz. 
 
-<center>
-<img src="https://gedik.blob.core.windows.net/images/fc.png" style="width: 150px; height: 400px;">
-</center>
+<img src="https://gedik.blob.core.windows.net/images/fc.png" style="margin-left: 30% width: 40%; height: 400px;">
