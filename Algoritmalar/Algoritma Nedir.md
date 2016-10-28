@@ -17,8 +17,6 @@ Bir algoritmanın temel özellikleri:
 >Adım 5: Cevabı buldun mu? Evet ise 7. adıma git, Hayır ise 6. adıma git.<br>
 >Adım 6: Yetkili birine sor.<br>
 >Adım 7: Bitir.<br>
-
-<section>
 <div style="width: 100%">
     <div style="float: left; width: 70%;">
     Bir algortimanın yukarıdaki gibi adım adım yazılmasına [PseudoCode](https://en.wikipedia.org/wiki/Pseudocode)
@@ -31,4 +29,3 @@ Bir algoritmanın temel özellikleri:
         <img src="https://gedik.blob.core.windows.net/images/fc.png" style="margin-left: 20%; width: 60%; height: 400px;">
     </div>
 </div>
-<section>
