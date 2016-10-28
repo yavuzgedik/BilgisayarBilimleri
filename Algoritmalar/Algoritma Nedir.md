@@ -18,8 +18,16 @@ Bir algoritmanın temel özellikleri:
 >Adım 6: Yetkili birine sor.<br>
 >Adım 7: Bitir.<br>
 
-Bir algortimanın yukarıdaki gibi adım adım yazılmasına [PseudoCode](https://en.wikipedia.org/wiki/Pseudocode) 
-(Sözde Kod, Kaba Kod) denir. 
-Programlam dili terimleri de kullanılabilir. 
 
-![alt text](https://gedik.blob.core.windows.net/images/fc.png =100x20)
+<div style="width: 100%">
+    <div style="float: left; width: 70%;">
+    Bir algortimanın yukarıdaki gibi adım adım yazılmasına [PseudoCode](https://en.wikipedia.org/wiki/Pseudocode)
+    (Sözde Kod, Kaba Kod) denir. Programlam dili terimleri de kullanılabilir. <br><br>
+    Algoritmaları şekillerle grafiksel olarak ifade edebiliriz. Bu yönteme <b>FlowChart (Akış Diyagramı)</b> denir.<br/>
+    Kısaca temel şekiller yan bölümde gösterilmiştir. Daha fazla şekil kullanan yayınlarda görebilirsiniz.
+    Ayrıntılar için [bu adrese](https://en.wikipedia.org/wiki/Flowchart) gidebilirsiniz. 
+    </div>
+    <div style="float: right; width: 30%;">
+        <img src="https://gedik.blob.core.windows.net/images/fc.png" style="margin-left: 20%; width: 60%; height: 400px;">
+    </div>
+</div>
